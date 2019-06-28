@@ -10,7 +10,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/bilibili/kratos/pkg/conf/paladin"
+	"github.com/cocktail18/paladin"
 
 	"github.com/BurntSushi/toml"
 )
